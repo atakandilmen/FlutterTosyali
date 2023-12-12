@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4338763427",
+    "project_id": "tosyali-70b69",
+    "storage_bucket": "tosyali-70b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4338763427:android:b82c93a6121610b8472116",
+        "android_client_info": {
+          "package_name": "com.example.tosyali_deneme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7uHnDXSg3KCTdM-Nm5pOYQXTtk9bD44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
